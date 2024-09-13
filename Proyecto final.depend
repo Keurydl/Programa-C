@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701990729 source:c:\users\keury\desktop\programing\proyecto final\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<Windows.h>
+	<conio.h>
+
